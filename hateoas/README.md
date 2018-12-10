@@ -4,4 +4,4 @@
 
 ## 参考文献
 
-https://www.baeldung.com/spring-hateoas-tutorial
+https://github.com/dclar/communication/tree/master/hateoas
