@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: hateoas
+
+server:
+  servlet:
+    context-path: /hateoas
+  port: 8889
+
+
