@@ -1,5 +1,7 @@
 /target/
-!hateoas/.mvn/wrapper/maven-wrapper.jar
+/.mvn/
+mvnw
+mvnw.cmd
 
 ### STS ###
 .apt_generated
@@ -23,12 +25,3 @@
 /dist/
 /nbdist/
 /.nb-gradle/
-.gitignore
-hateoas/.mvn/
-hateoas/README.md
-hateoas/mvnw
-hateoas/mvnw.cmd
-hateoas/pom.xml
-hateoas/src/
-hateoas/target/
-pom.xml
