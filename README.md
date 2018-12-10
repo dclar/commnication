@@ -2,4 +2,4 @@
 
 ## 2018/12/7 Spring hateoas
 
-https://www.gibhub.com/dclar/communication/master/hateoas
+https://github.com/dclar/communication/tree/master/hateoas
